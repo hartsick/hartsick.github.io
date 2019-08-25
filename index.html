@@ -3,12 +3,14 @@
 <head>
     <meta charset="utf-8">
     <title>christa.town</title>
+    <meta name="viewport" content="width=device-width">
     <style>
         .container {
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            padding: 0 1em;
         }
 
         .item {
@@ -17,6 +19,12 @@
 
         .item img {
             max-width: 100%;
+        }
+
+        @media screen and (min-width: 600px)  {
+            .container {
+                padding: 0;
+            }
         }
     </style>
 </head>
@@ -30,8 +38,15 @@
         </div>
         <div class="item">
             <p>hi, I'm christa hartsock.</p>
-            <p>I'm currently a software engineer at <a href="https://codeforamerica.org">Code for America</a>, helping improve America's social safety net through improved access to programs like foodstamps and Medicaid.</p>
-            <p>outside of work, I spend time on a magazine about technology called <a href="https://logicmag.io">Logic</a>.</p>
+            <a>
+                I'm currently a software engineering lead on
+                <a href="https://www.codeforamerica.org/programs/clear-my-record" target="_blank">Clear My Record</a>
+                at <a href="https://codeforamerica.org" target="_blank">Code for America</a>, helping states develop and
+                implement more expansive record relief.
+            </p>
+            <p>
+                I also help publish <a href="https://logicmag.io" target="_blank">Logic Magazine</a>.
+            </p>
             <p>I exist a few other places:</p>
             <ul>
                 <li><a href="https://twitter.com/_hartsick">twitter</a></li>
@@ -42,7 +57,10 @@
                 <li>email: christa (dot) hartsock (at) gmail (dot) com</li>
                 <li>offline, mostly in san francisco</li>
             </ul>
-            <p>if you'd like to talk for any reason, just shoot me a message via email or twitter! I'm often slow at responding, but do have the best intentions. short, direct asks usually get a response more quickly.</p>
+            <p>
+                if you'd like to talk for any reason, just shoot me a message via email or twitter!
+                I'm often slow at responding, but do have the best intentions. short, direct asks usually get a response more quickly.
+            </p>
         </div>
         <div class="item">
             <p>thank you for visiting; here is a gift:</p>
