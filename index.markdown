@@ -28,7 +28,6 @@ I exist a few other places:
     * <a rel="me" href="https://friend.camp/@christa">friend.camp (my secondary account that mostly posts local to the friend camp instance)</a>
 * [github](https://github.com/hartsick)
 * [linkedin](http://linkedin.com/in/chartsock)
-* [my powerlifting instagram](https://www.instagram.com/christa_lifts)
 * [bookwyrm (federated, non-corporate goodreads)](https://bookwyrm.social/user/christa)
 * email: christa (dot) hartsock (at) gmail (dot) com
 * offline, mostly in san francisco, often at the Harvey Milk Photo Center
