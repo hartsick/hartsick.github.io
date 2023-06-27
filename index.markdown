@@ -25,8 +25,7 @@ I exist a few other places:
 * [my (very infrequent) email newsletter](https://tinyletter.com/loggin_off)
 * on the fediverse across a number of mastodon instances:
     * <a rel="me" href="https://void.holdings/@christa">void.holdings (my main account)</a>
-    * <a rel="me" href="https://friend.camp/@christa">friend.camp (my other main account, for now)</a>
-    * <a rel="me" href="https://mastodon.publicinterest.town/@christa">publicinterest.town (civic tech-y and coding things)</a>
+    * <a rel="me" href="https://friend.camp/@christa">friend.camp (my secondary account that mostly posts local to the friend camp instance)</a>
 * [github](https://github.com/hartsick)
 * [linkedin](http://linkedin.com/in/chartsock)
 * [my powerlifting instagram](https://www.instagram.com/christa_lifts)
