@@ -23,7 +23,7 @@ Outside of work, I co-founded and helped run [Logic Magazine](https://logicmag.i
 
 I exist a few other places:
 * [my (very infrequent) email newsletter](https://tinyletter.com/loggin_off)
-* on the fediverse across a number of mastodon instances:
+* on the fediverse across a couple of mastodon instances:
     * <a rel="me" href="https://void.holdings/@christa">void.holdings (my main account)</a>
     * <a rel="me" href="https://friend.camp/@christa">friend.camp (my secondary account that mostly posts local to the friend camp instance)</a>
 * [github](https://github.com/hartsick)
