@@ -1,6 +1,6 @@
 # christa.town
 
-The personal site and blog of me, Christa Hartsock, built with Jekyll and served via Github Pages.
+The code for the [personal site and blog of me, Christa Hartsock,](https://christa.town) built with Jekyll and served via Github Pages.
 
 This is just a public repo because I wanted to play with Github Pages and you have to pay to have Github Pages with a private repo. Maybe you'll find it useful, though!
 
