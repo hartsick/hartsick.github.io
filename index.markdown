@@ -10,7 +10,7 @@ layout: home
 
 Hi, I'm Christa Hartsock.
 
-- professional things -
+## professional things
 
 I’m currently working as a software engineer and UX researcher on a consulting basis through my company topographic LLC. I'm available for work on interesting projects that move toward a better world—if you have something you'd like to talk about working on together, let's chat (email: christa at topographic.llc).
 
@@ -22,7 +22,7 @@ In the recent past I've worked as:
 
 Prior to working with government, I've worked as an engineer at the agile consultancy Pivotal Labs (RIP) and at another small product consultancy (also RIP); as a studio manager at [Peter Rose and Partners](https://roseandpartners.com/), an architecture and urban design firm; as a travel guide writer in Barcelona, on a variety of cleanup crews; in many ice cream shops; and a number of other things.
 
-- non-professional things -
+## non-professional things
 
 I live in San Francisco with my husband, [Jim Fingal](https://jimfingal.com), and our rescue bully, Piglet. We're currently working on starting a cool new magazine called the [San Francisco Review of Whatever](https://sfreview.org/) with some of our friends. You can read Elisabeth Nicula, one of those friends, [first describe the idea of the Review in The Back Room](https://www.smallpresstraffic.org/the-back-room-article/a-body-thats-all-surface).
 
@@ -30,7 +30,7 @@ I help out with tech stuff (hardware, software, etc) at [BFF.fm](https://bff.fm/
 
 I co-founded and helped run [Logic Magazine](https://logicmag.io), on which I continue on the board; and have been running a [small forum I built](https://github.com/hartsick/ruBB/) and, more recently, a [Mastodon instance](https://void.holdings) for friends.
 
-- contact -
+## contact
 
 I exist a few other places:
 * email: christa (dot) hartsock (at) gmail (dot) com
