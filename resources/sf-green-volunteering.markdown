@@ -33,13 +33,16 @@ Also thanks to Garden for the Environment's [Get Up!](https://www.gardenfortheen
     (Bayview-Hunters Point)**_ - 
     Saturdays from 11:30am-2:30pm
 * _**[Garden for the Environment](https://www.gardenfortheenvironment.org/volunteer) 
-(Inner Sunset)**_ - 
+    (Inner Sunset)**_ - 
     Weekly on Wednesdays and Saturdays from 10am-3pm, with a break for lunch from 12-1pm
+* _**[Glen Park Greenway](https://www.glenparkassociation.org/greenway/) 
+    (Glen Park)**_ - 
+    Weekly on Saturdays from 9am-12pm
 * _**[Hummingbird Farm](https://podersf.org/hummingbird-farm/) 
-(Excelsior)**_ - 
+    (Excelsior)**_ - 
     Weekly on Wednesday 4-7pm, Thursday 9a-12pm, Sunday 11am-2pm. Full calendar for Poder [here](https://podersf.org/calendar/)
 * _**[Sutro Stewards](https://www.sutrostewards.org/volunteer) 
-(Mount Sutro)**_ - 
+    (Mount Sutro)**_ - 
     every Wednesday working in the nursery 9:30-11:30am; every Thursday planting and weeding on the mountain 9:30-11:30am; First and third Saturdays trail and habitat stewardship 8:45am-12:30pm
 
 #### Food growing
