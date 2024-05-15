@@ -7,6 +7,9 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  {%- if page.last_modified_at -%}
+    <p><strong><em>Last updated: {{ page.last_modified_at | date: "%b %d, %Y" }} </em></strong></p>
+  {%- endif -%}
 
+  {{ content }}
 </div>
