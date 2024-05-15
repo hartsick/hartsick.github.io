@@ -24,9 +24,9 @@ Prior to working with government, I've worked as an engineer at the agile consul
 
 - non-professional things -
 
-I live in San Francisco with my husband, [Jim Fingal](https://jimfingal.com), and our rescue bully, Piglet. We're currently working on starting a cool new magazine called the [San Francisco Review of Whatever](https://sfreview.org/) with some of our friends. You can read Elisabeth Nicula, one of those friend, [pose the idea of the Review in The Back Room](https://www.smallpresstraffic.org/the-back-room-article/a-body-thats-all-surface).
+I live in San Francisco with my husband, [Jim Fingal](https://jimfingal.com), and our rescue bully, Piglet. We're currently working on starting a cool new magazine called the [San Francisco Review of Whatever](https://sfreview.org/) with some of our friends. You can read Elisabeth Nicula, one of those friends, [first describe the idea of the Review in The Back Room](https://www.smallpresstraffic.org/the-back-room-article/a-body-thats-all-surface).
 
-I help out with tech stuff (hardware, software, etc) at [BFF.fm](https://bff.fm/volunteer), a San Francisco community radio station based in the Mission, and regularly volunteer at various community greenspaces around the city—most frequently [Garden for the Environment](https://www.gardenfortheenvironment.org/volunteer) and [the native plant nursery at Sutro Stewards](https://www.sutrostewards.org/volunteer). They're all wonderful places and communities; come to a volunter day if you'd like to learn more!
+I help out with tech stuff (hardware, software, etc) at [BFF.fm](https://bff.fm/volunteer), a San Francisco community radio station based in the Mission, and regularly volunteer at various community greenspaces around the city—most frequently [Garden for the Environment](https://www.gardenfortheenvironment.org/volunteer) and [the native plant nursery at Sutro Stewards](https://www.sutrostewards.org/volunteer). They're all wonderful places and communities; come to a volunteer day if you'd like to learn more!
 
 I co-founded and helped run [Logic Magazine](https://logicmag.io), on which I continue on the board; and have been running a [small forum I built](https://github.com/hartsick/ruBB/) and, more recently, a [Mastodon instance](https://void.holdings) for friends.
 
