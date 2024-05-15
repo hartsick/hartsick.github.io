@@ -16,7 +16,7 @@ This list below is an overview of regularly volunteering events I know about her
 
 **For each of the events below check on their official organization website before going.** Most require an RSVP, and many are subject to cancellation for inclement weather (sometimes rain, sometimes wind).
 
-If you have any edits to this list, please let me know! Email me at the address in the footer of the website, or you can submit a pull request on [Github](https://github.com/hartsick/christa.town).
+If you have any edits to this list please let me know! Email me at the address in the footer of the website or submit a pull request on [Github](https://github.com/hartsick/christa.town).
 
 ---
 
