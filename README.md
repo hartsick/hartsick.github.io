@@ -20,6 +20,10 @@ Do this every time:
 bundle exec jekyll serve
 ```
 
+### Making a page
+
+Make a new file in the directory root, eg `<desired-path>.markdown`. For pages within directories place them in that directory, eg `resources/sf-green-volunteering.markdown`
+
 ### Making a blog post
 
 Make a new file in `./_posts` in format YYYY-MM-DD-this-is-a-title.md. Put contents in it. Consider editing it. Commit and push.
