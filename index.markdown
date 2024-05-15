@@ -10,10 +10,14 @@ layout: home
 
 Hi, I'm Christa Hartsock.
 
-I'm currently a backend software engineer at [Meedan](https://meedan.com/), a non-profit working globally to address misinformation.  I live in San Francisco with my husband, [Jim Fingal](https://jimfingal.com), and our rescue bully, Piglet.
+
+I’m currently working as a software engineer and UX researcher on a consulting basis through my company topographic LLC. I'm available for work on interesting social impact projects—if you have something you'd like to talk about working on together, let's chat (email: christa at topographic.llc).
+
+I live in San Francisco with my husband, [Jim Fingal](https://jimfingal.com), and our rescue bully, Piglet. We're currently working on starting a cool new magazine called the [San Francisco Review of Whatever](https://sfreview.org/) with some of our friends. You can read Elisabeth Nicula, one of those friend's, [introduction of the idea in The Back Room](https://www.smallpresstraffic.org/the-back-room-article/a-body-thats-all-surface).
 
 In the recent past I've worked as:
 
+* a backend software engineer at [Meedan](https://meedan.com/), a non-profit working globally to address misinformation
 * a consulting engineer at [18F](https://18f.gsa.gov/), the US federal government's technology and design consultancy
 * an engineering manager, software engineer, and engineering lead at [Code for America](https://codeforamerica.org), working to improve access to criminal record relief as part of [Clear My Record](https://www.codeforamerica.org/programs/clear-my-record), and help ease the burden of getting safety net benefits through the [Integrated Benefits Initiative](https://www.govtech.com/civic/code-for-americas-integrated-benefits-initiative-expands-to-five-states.html) and [GetCalFresh](https://demo.getcalfresh.org).
 
