@@ -50,6 +50,9 @@ Also thanks to Garden for the Environment's [Get Up!](https://www.gardenfortheen
 * _**[Alemany Farm](https://alemanyfarm.org/get-involved/)
     (Southeastern SF)**_ - 
     Monday and Saturday afternoons from 1-5pm
+* _**[CommunityGrows](https://www.communitygrows.org/volunteer-individual)
+    (Western Addition)**_ -
+    First and third Fridays at Koshland Community Garden from 10am-12pm; Fourth Wednesdays from 1:30-3:30pm at Rosa Parks Elementary School.
 * _**[Dragonspunk GRO](https://www.dragonspunk.org/)
     (Bayview-Hunters Point)**_ -
     Saturdays from 11:30am-2:30pm
